@@ -78,20 +78,6 @@ Data quality flags added: orders placed before product launch, future-dated retu
 
 ---
 
-## 📁 Repository Structure
-
-```
-ecommerce-sales-analysis/
-├── README.md
-├── sql/
-│   └── Ecommerce.sql
-├── powerbi/
-│   └── Ecommerce.pbix
-└── screenshots/
-    ├── 1_sales_performance.png
-    ├── 2_customer_analysis.png
-    └── 3_operations_returns_marketing.png
-```
 
 ---
 
